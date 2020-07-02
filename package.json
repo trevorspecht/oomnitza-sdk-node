@@ -1,0 +1,30 @@
+{
+  "name": "oomnitza-sdk-node",
+  "version": "0.1.0",
+  "description": "A Node.js SDK for the Oomnitza API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "got": "^11.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorspecht/oomnitza-sdk-node.git"
+  },
+  "keywords": [
+    "Oomnitza"
+  ],
+  "author": "Trevor Specht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevorspecht/oomnitza-sdk-node/issues"
+  },
+  "homepage": "https://github.com/trevorspecht/oomnitza-sdk-node#readme"
+}
