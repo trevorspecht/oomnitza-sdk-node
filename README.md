@@ -1,5 +1,7 @@
 # oomnitza-sdk-node
-A Node.js SDK for the Oomnitza API
+[WIP] A Node.js SDK for the Oomnitza API
+
+This is a work in progress. Current supported methods are listed in the Usage section below.
 
 ## Usage
 
